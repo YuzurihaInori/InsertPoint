@@ -18,5 +18,11 @@ public class MainActivity extends AppCompatActivity {
                 System.out.println("click");
             }
         });
+        findViewById(R.id.sccooll).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                System.out.println("click");
+            }
+        });
     }
 }

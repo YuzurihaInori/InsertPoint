@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/InsertPoint.iml" filepath="$PROJECT_DIR$/InsertPoint.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hookpoint/hookpoint.iml" filepath="$PROJECT_DIR$/hookpoint/hookpoint.iml" />
       <module fileurl="file://$PROJECT_DIR$/point/point.iml" filepath="$PROJECT_DIR$/point/point.iml" />
     </modules>
   </component>
